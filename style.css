@@ -74,6 +74,7 @@ body {
   margin-left: 100px;
   padding-top: 70px;
   padding-bottom: 50px;
+  margin-right: 1%;
 }
 #ar {
   background-color: rgb(245, 213, 200);
@@ -103,4 +104,16 @@ body {
 }
 .clr {
   color: aliceblue;
+}
+.meheraj {
+  background-image: url(pictures/dream-bg.png);
+  background-position-x: left;
+  background-repeat: no-repeat;
+  background-size: 10%;
+}
+.shaw {
+  background-image: url(shapes/shape-1.png);
+  background-position-x: right;
+  background-repeat: no-repeat;
+  background-size: 20%;
 }
