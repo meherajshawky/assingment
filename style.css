@@ -106,14 +106,8 @@ body {
   color: aliceblue;
 }
 .meheraj {
-  background-image: url(pictures/dream-bg.png);
+  background-image: url(shapes/shape-1.png);
   background-position-x: left;
   background-repeat: no-repeat;
-  background-size: 10%;
-}
-.shaw {
-  background-image: url(shapes/shape-1.png);
-  background-position-x: right;
-  background-repeat: no-repeat;
-  background-size: 20%;
+  background-size: 30%;
 }
